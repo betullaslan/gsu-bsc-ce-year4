@@ -20,6 +20,7 @@ An interactive, cube-based 3D world simulator built with C++ and OpenGL, featuri
 - **Institution:** Galatasaray University  
 - **Department:** Computer Engineering  
 - **Academic Year:** 2025–2026 Fall
+- **Assignment:** Term Project
 
 ---
 

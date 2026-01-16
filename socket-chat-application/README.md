@@ -21,6 +21,7 @@ The application demonstrates fundamental networking concepts such as TCP socket 
 - **Institution:** Galatasaray University  
 - **Department:** Computer Engineering  
 - **Academic Year:** 2025–2026 Fall  
+- **Assignment:** Coursework
 
 ---
 

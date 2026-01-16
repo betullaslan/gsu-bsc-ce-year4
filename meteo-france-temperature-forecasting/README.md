@@ -21,6 +21,7 @@ station as an independent time series.
 - **Institution:** Galatasaray University  
 - **Department:** Computer Engineering  
 - **Academic Year:** 2025–2026 Fall
+- **Assignment:** Term Project
 
 ---
 
