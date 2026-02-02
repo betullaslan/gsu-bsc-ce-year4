@@ -7,7 +7,7 @@ Each project is located in its own folder and includes a separate README with de
 ## Projects Overview
 
 ### 1. `meteo-france-temperature-forecasting/`  
-**Temperature Forecasting with Machine Learning (Python + Jupyter)**  
+**Temperature Forecasting with Machine Learning**  
 A comprehensive end-to-end workflow for forecasting hourly surface air temperatures using Meteo-France weather station data with multiple regression and deep learning models.
 
 **Main Files:**
@@ -31,7 +31,7 @@ Features:
 ---
 
 ### 2. `minecraft-opengl-simulator/`  
-**3D Voxel World Simulator (C++ + OpenGL)**  
+**Minecraft-Inspired 3D World Simulator**  
 An interactive Minecraft-inspired 3D world with animated characters, dynamic day-night cycles, procedural textures, and first-person camera controls.
 
 **Main Files:**
@@ -52,7 +52,7 @@ Features:
 ---
 
 ### 3. `opengl-graphics-projects/`  
-**OpenGL Fundamentals Collection (C++ + OpenGL)**  
+**OpenGL Graphics Projects Collection**  
 A series of 12 progressive graphics applications covering 2D/3D rendering, geometric transformations, animations, and interactive user input.
 
 **Main Files:**
@@ -81,7 +81,7 @@ Features:
 ---
 
 ### 4. `socket-chat-application/`  
-**Multi-Client Chat System (Python + Sockets)**  
+**Python Socket-Based Chat Application**  
 A TCP-based client–server chat application supporting multiple concurrent users with direct messaging and broadcast functionality.
 
 **Main Files:**
