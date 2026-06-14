@@ -101,4 +101,27 @@ Features:
 
 ---
 
+### 5. `predicting-blood-pressure-disorders/`
+**Predicting Blood Pressure Disorders**  
+An end-to-end Python machine learning pipeline that uses the Framingham cardiovascular dataset to classify blood-pressure disorders.
+
+**Main Files:**
+- `main.py` – end-to-end pipeline entry point
+- `data_utils.py` – data cleaning, target creation, and exploratory analysis
+- `model_train_utils.py` – model training, balancing, and evaluation
+- `model_tune_utils.py` – hyperparameter tuning and final-model selection
+- `report_utils.py` – report generation
+
+Features:
+- Data preprocessing and missing-value handling
+- Blood-pressure disorder target generation
+- Leakage-aware feature selection
+- Random Forest, Decision Tree, and XGBoost models
+- Cross-validation and GridSearchCV hyperparameter tuning
+- Evaluation using accuracy, recall, precision, F1-score, and ROC-AUC
+
+**Course:** Knowledge Discovery and Introduction to Data Mining
+
+---
+
 > For more details, refer to the README files inside each project folder.
